@@ -11,8 +11,5 @@ class HomeInventory extends Controller
         return view('index');
     }
 
-    public function daftar_barang()
-    {
-        return view('apps.daftar_barang');
-    }
+   
 }
