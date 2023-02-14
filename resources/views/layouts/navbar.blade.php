@@ -10,6 +10,9 @@
     <li class="nav-item d-none d-sm-inline-block">
       <a href="#" class="nav-link">Login</a>
     </li>
+    <li class="nav-item d-none d-sm-inline-block">
+      <a href="#" class="nav-link">Register</a>
+    </li>
   </ul>
    
   </ul>
