@@ -19,4 +19,4 @@ Route::get('/', function () {
 });
 
 Route::get('/index',[HomeInventory::class,'index']);
-Route::get('/daftar_barang',[HomeInventory::class,'daftar_barang']);
+Route::get('/index/barang',[HomeInventory::class,'daftar_barang']);
